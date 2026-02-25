@@ -1,0 +1,5 @@
+{
+  "name": "Driftlesslocal.com Vibe Map",
+  "description": "An interactive, trendy guide to art, coffee, and attractions in Iowa and Sauk Counties, Wisconsin, focusing on Spring Green and Mineral Point.",
+  "requestFramePermissions": ["geolocation"]
+}
